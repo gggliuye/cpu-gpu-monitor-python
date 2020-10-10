@@ -15,3 +15,8 @@ cpu-gpu-monitor-python
 # CPU and GPU monitor
 
 ![run_result](GPU_CPU_Activity_Monitor.png)
+
+
+# use as application
+
+you can change the run.sh file and the application configuration file to make it an application to allow easy usage.
