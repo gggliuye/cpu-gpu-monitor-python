@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=cpu-gpu-monitor
+Comment=MATLAB
+Exec=/bin/bash /home/bastain/Programs/Monitor/run.sh
+Icon=/home/bastain/Programs/Monitor/GPU_CPU_Activity_Monitor.png
+Terminal=false
+Type=Application
+Categories=Application
